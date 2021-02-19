@@ -43,6 +43,7 @@
 `get router info routing-table details <ip>`
 
 [PROCESSI]
+
 *processi in running nel firewall*
 `diagnose sys top`
 
@@ -82,6 +83,7 @@
 
 *ferma il debug*
 `diag debug disable`
+
 [-----]
 
 *debug del processo vpn all'interno dell'apparato, utile su vecchie versioni di firewall tipo la 5*
