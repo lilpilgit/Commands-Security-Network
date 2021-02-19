@@ -67,6 +67,7 @@
 `diag sni pack <any/interface> "host <ip> and host <ip> and <port>" <level_verbose> <numero_di_pacchetti_da_catturare/0 == illimitato> <l(elle), serve per il timestamp>`
 
 [DEBUG]
+
 *reset del debug del flusso della sessione*
 `diag debug reset`
 
